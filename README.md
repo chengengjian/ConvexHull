@@ -27,4 +27,7 @@ more details are in help list.
 
 ## Example
 
-<img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png" width="200" height="200" alt="抖音小程序"/><br/>
+<img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png" width="500" height="500" alt="step1"/><br/>
+<img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/2.png" width="500" height="500" alt="step2"/><br/>
+<img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/3.png" width="500" height="500" alt="step3"/><br/>
+<img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/final.png" width="500" height="500" alt="final"/><br/>
