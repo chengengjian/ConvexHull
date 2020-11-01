@@ -26,5 +26,5 @@ compiler
 more details are in help list.
 
 ## Example
-
+![Image text](https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png)
 
