@@ -27,4 +27,4 @@ more details are in help list.
 
 ## Example
 ![Image text](https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png)
-<img src="https://github.com/仓库名/项目名/blob/master/m/20200424230936851.png" width="200" height="200" alt="抖音小程序"/><br/>
+<img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png" width="200" height="200" alt="抖音小程序"/><br/>
