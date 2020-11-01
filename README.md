@@ -23,6 +23,8 @@ Open .sln in visual studio
 
 compiler
 
+copy freeglut.dll to your environment
+
 more details are in help list.
 
 ## Example
