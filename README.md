@@ -14,3 +14,17 @@ resources         -- Some resources needed.
 ## Configuration
 
 Follow the instruction in the README.md of each algorithm folder.
+
+## Building 
+
+Create new folder named "build" and cmake.
+
+Open .sln in visual studio
+
+compiler
+
+more details are in help list.
+
+## Example
+
+
