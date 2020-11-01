@@ -119,7 +119,6 @@ void CConvexHull::_remove_visiable(const CPoint& p)
             visiable_faces.push_back(pF);
         }
     }
-    //insert your code here
     _remove_faces(visiable_faces);
 }
 
