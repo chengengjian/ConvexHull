@@ -26,5 +26,5 @@ compiler
 more details are in help list.
 
 ## Example
-![Image text](https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png)
+
 <img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png" width="200" height="200" alt="抖音小程序"/><br/>
