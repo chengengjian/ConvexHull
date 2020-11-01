@@ -1,6 +1,6 @@
 # 3D Convex Hull
 
-This C++ project framework is used to help students to implement 3D convex hull algorithm. It contains a simple opengl viewer.
+This C++ project framework contains a simple opengl viewer.
 
 ## Dependencies
  
@@ -53,26 +53,3 @@ CMakeLists.txt   -- CMake configuration file.
 7. Press '?' when your mouse is focused on the glut window, and follow the instruction in the command line window.
 > If you can see the following results, then it means that you have finished the 3d convex hull algorithm. 
 > 
-> ![Input sites](../resources/sites.png) 
-> ![Convex Hull(wireframe)](../resources/convex_hull_1.png) 
-> ![Convex Hull(flat shading)](../resources/convex_hull_2.png)
-
-### Linux & Mac
-
-1. Build and compile the code.
-
-> ``` bash
-> # the root directory of the project
-> cd OTHomework
-> mkdir build
-> cd build
-> cmake ..
-> make && make install
-> ```
-
-2. Run the executable program.
-
-> ``` bash
-> cd ../bin/
-> ./ConvexHull 10000
-> ```
