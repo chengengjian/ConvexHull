@@ -26,8 +26,14 @@ compiler
 more details are in help list.
 
 ## Example
-
+Step 1 randomly generate 1000 points and randomly choose 3 points to form a comvexhull
 <img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/1.png" width="500" height="500" alt="step1"/><br/>
+
+Step 2 
 <img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/2.png" width="500" height="500" alt="step2"/><br/>
+
+step 3 
 <img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/3.png" width="500" height="500" alt="step3"/><br/>
+
+Finally generated the convex hull of 1000 points
 <img src="https://raw.githubusercontent.com/chengengjian/ConvexHull/master/img/final.png" width="500" height="500" alt="final"/><br/>
